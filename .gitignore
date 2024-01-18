@@ -1,3 +1,5 @@
 *.docx
 *.pptx
 __pycache__\
+synthetic_data\
+db_data\
