@@ -1,0 +1,2 @@
+sdv
+mysql-connector-python
